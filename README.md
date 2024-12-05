@@ -13,7 +13,7 @@ Before you begin, ensure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/AliGhanizade/sample_user_pas.git
+   git clone https://github.com/AliGhanizade/Sample-UserPas.git
    ```
 
 2. Navigate to the project directory:
