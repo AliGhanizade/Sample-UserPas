@@ -1,6 +1,6 @@
 # Go Project Exercise
 
-This project is an exercise for working with the Go programming language. The goal of this project is to familiarize yourself with the GET method and to use the Gin and GORM frameworks.
+This project is an exercise for working with the Go programming language. The goal of this project is to familiarize yourself with the GET and POST method and to use the Gin and GORM frameworks.
 
 ## Prerequisites
 
